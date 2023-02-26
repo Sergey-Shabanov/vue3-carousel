@@ -57,5 +57,8 @@
     "last 2 versions",
     "not dead"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-gyp": "^9.3.1"
+  }
 }
